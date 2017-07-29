@@ -1,7 +1,7 @@
 {
   "name": "jogar.soccer",
   "version": "1.0.0",
-  "description": "Jogar.soccer launch",
+  "description": "Ojise TV launch",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
